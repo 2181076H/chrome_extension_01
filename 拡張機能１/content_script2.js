@@ -9,3 +9,4 @@ for(let i = 0; i < sum.length; i++){
   let e = sum[i];
   e.style.display = 'none';
 }
+
