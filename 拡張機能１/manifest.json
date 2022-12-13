@@ -15,6 +15,10 @@
         {
           "matches": ["https://ja.wikipedia.org/*"],
           "js": ["content_script.js"]
+        },
+        {
+          "matches": ["https://beef.center.kobe-u.ac.jp/*"],
+          "js": ["content_script2.js"]
         }
       ]
       
